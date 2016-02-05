@@ -81,12 +81,24 @@
 
 .content-wide {
   width: 80%; }
+  @media (max-width: 800px) {
+    .content-wide {
+      width: 90%; } }
+  @media (max-width: 600px) {
+    .content-wide {
+      width: 95%; } }
 
 .mdl-card-square__wide.mdl-card {
   width: 500px; }
+  @media (max-width: 600px) {
+    .mdl-card-square__wide.mdl-card {
+      width: 100%; } }
 
 .mdl-card-square.mdl-card {
   width: 320px; }
+  @media (max-width: 600px) {
+    .mdl-card-square.mdl-card {
+      width: 100%; } }
 
 .mdl-card-square > .mdl-card__title,
 .mdl-card-square__wide > .mdl-card__title {
