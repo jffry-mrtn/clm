@@ -1,7 +1,7 @@
 /* Grid */
 .gallery-image {
-    height: auto;
-    width: 500px;
+    width: auto;
+    height: 300px;
     margin: 25px auto;
     display: block;
     text-align: center;
