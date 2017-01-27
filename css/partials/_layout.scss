@@ -73,11 +73,11 @@
 
 .content,
 .content-wide {
-  width: 55%;
+  width: 50%;
   margin: auto;
 
   @media (max-width: 800px) {
-    width: 75%;
+    width: 70%;
   }
 
   @media (max-width: 600px) {
@@ -105,14 +105,14 @@
 }
 
 .content-wide {
-  width: 80%;
+  width: 75%;
 
   @media (max-width: 800px) {
-    width: 90%;
+    width: 85%;
   }
 
   @media (max-width: 600px) {
-    width: 95%;
+    width: 90%;
   }
 }
 
